@@ -1,0 +1,11 @@
+# torch>=1.12.0
+# torchvision>=0.6.1
+# torchaudio
+denoiser
+ffmpeg
+librosa
+soundfile
+tqdm>=4.30
+librosa>=0.9
+opencv_python>=4.2.0
+resampy
