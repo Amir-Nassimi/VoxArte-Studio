@@ -1,0 +1,1 @@
+To download and extract the weights, follow this link: https://drive.google.com/file/d/1lRKrNqjmF4XnHbdo8XozA8cUqFSOYe82/view?usp=drive_link

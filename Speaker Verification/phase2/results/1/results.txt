@@ -1,0 +1,10 @@
+Accuracy: 0.9086
+Sensitivity: 0.8600
+Specificity: 0.9571
+Precision: 0.9524	
+Negative Predictive Value: 0.8727
+False Positive Rate: 0.0429	
+False Discovery Rate: 0.0476	
+False Negative Rate: 0.1400	
+F1 Score: 0.9038	
+Matthews Correlation Coefficient: 0.8211

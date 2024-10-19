@@ -1,0 +1,5 @@
+Time taken for verification_score: 1.199465 seconds
+Accuracy: 0.91745
+Recall: 0.84352
+Precision: 0.8867956265769554
+F1 Score: 0.8646166461664617
